@@ -1,0 +1,10 @@
+package sem_4.pract_7.facade;
+
+public class Projector{
+    public void turnOnProjector(){
+        System.out.println("Projector is turned on");
+    }
+    public void turnOffProjector(){
+        System.out.println("Projector is turned off");
+    }
+}
