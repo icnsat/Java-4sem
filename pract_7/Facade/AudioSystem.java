@@ -1,4 +1,4 @@
-package sem_4.pract_7.facade;
+package sem_4.pract_7.Facade;
 
 public class AudioSystem {
     public void turnOnAudio(){
