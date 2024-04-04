@@ -1,0 +1,42 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'org.example.Pract9Tutorial'
+    }
+}
+
+task copyJar (type: Copy){
+    dependsOn jar
+    from file("$buildDir/libs/pract_9-1.0.jar")
+    into file("$rootDir/dockerjar/")
+}
+
+task buildImage (type: Exec) {
+    dependsOn copyJar
+    commandLine "docker", "build", "-t", "pract_9:1.0", "./dockerjar"
+}
+
+task practTask (type: Exec){
+    dependsOn buildImage
+    commandLine "docker", "run", "-t", "docker.io/library/pract_9:1.0"
+}
+
