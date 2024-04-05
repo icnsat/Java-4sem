@@ -1,7 +1,5 @@
 package pract_1;
 
-import pract_1.Gcd;
-
 import java.util.Scanner;
 import java.util.function.Function;
 
