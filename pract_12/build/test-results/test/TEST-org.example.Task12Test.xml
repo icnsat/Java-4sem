@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.Task12Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-16T17:46:31" hostname="LAPTOP-M1U2VU64" time="0.525">
+  <properties/>
+  <testcase name="contextLoads()" classname="org.example.Task12Test" time="0.525"/>
+  <system-out><![CDATA[20:46:31.138 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [org.example.Task12Test]: Task12Test does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:46:31.206 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration org.example.Task12 for test class org.example.Task12Test
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.4)
+
+2024-04-16T20:46:31.462+03:00  INFO 25172 --- [    Test worker] org.example.Task12Test                   : Starting Task12Test using Java 19.0.2 with PID 25172 (started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem\pract_12)
+2024-04-16T20:46:31.463+03:00  INFO 25172 --- [    Test worker] org.example.Task12Test                   : No active profile set, falling back to 1 default profile: "default"
+2024-04-16T20:46:31.840+03:00  INFO 25172 --- [    Test worker] org.example.Task12Test                   : Started Task12Test in 0.524 seconds (process running for 1.286)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -5,8 +5,6 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/pract_10" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.7" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/pract_10" />
@@ -14,9 +12,33 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_9" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_11/demo/demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_11/demo/demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_12" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.7" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_12" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_13" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_13" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_9" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/pract_9" />

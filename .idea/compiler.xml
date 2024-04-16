@@ -2,9 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="pract_10" target="19" />
-      <module name="pract_10.main" target="19" />
-      <module name="pract_10.test" target="19" />
+      <module name="pract-12" target="19" />
+      <module name="pract-12.main" target="19" />
+      <module name="pract-12.test" target="19" />
       <module name="pract_101" target="19" />
       <module name="pract_1010.main" target="19" />
       <module name="pract_1010.test" target="19" />
@@ -12,9 +12,8 @@
       <module name="pract_1011" target="19" />
       <module name="pract_1011.main" target="19" />
       <module name="pract_1011.test" target="19" />
-      <module name="pract_9" target="19" />
-      <module name="pract_9.main" target="19" />
-      <module name="pract_9.test" target="19" />
+      <module name="pract__12.main" target="19" />
+      <module name="pract__12.test" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
