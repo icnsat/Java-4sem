@@ -12,8 +12,12 @@
       <module name="pract_1011" target="19" />
       <module name="pract_1011.main" target="19" />
       <module name="pract_1011.test" target="19" />
+      <module name="pract_14_0.1" target="19" />
       <module name="pract__12.main" target="19" />
       <module name="pract__12.test" target="19" />
+      <module name="ptsd" target="19" />
+      <module name="ptsd.main" target="19" />
+      <module name="ptsd.test" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>

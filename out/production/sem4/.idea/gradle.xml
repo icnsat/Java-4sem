@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_10" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_11/demo/demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_11/demo/demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_12" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_12" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_13" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_13" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_14" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_14" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_9" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_9" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

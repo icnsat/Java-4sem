@@ -38,6 +38,24 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_14" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_14" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract_15" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract_15" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/pract_9" />
         <option name="modules">
           <set>

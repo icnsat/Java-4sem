@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="pract-12" target="19" />
+      <module name="pract-12.main" target="19" />
+      <module name="pract-12.test" target="19" />
+      <module name="pract_101" target="19" />
+      <module name="pract_1010.main" target="19" />
+      <module name="pract_1010.test" target="19" />
+      <module name="pract_10101" target="19" />
+      <module name="pract_1011" target="19" />
+      <module name="pract_1011.main" target="19" />
+      <module name="pract_1011.test" target="19" />
+      <module name="pract_14_0.1" target="19" />
+      <module name="pract_15" target="19" />
+      <module name="pract_15.main" target="19" />
+      <module name="pract_15.test" target="19" />
+      <module name="pract__12.main" target="19" />
+      <module name="pract__12.test" target="19" />
+      <module name="ptsd" target="19" />
+      <module name="ptsd.main" target="19" />
+      <module name="ptsd.test" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
