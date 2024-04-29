@@ -32,7 +32,7 @@ public class DepartureServiceImpl implements DepartureService{
     }
 
     public Departure read(Long id) {
-        return departureRepository.getReferenceById(id);
+        return departureRepository.getById(id);
     }
 
 

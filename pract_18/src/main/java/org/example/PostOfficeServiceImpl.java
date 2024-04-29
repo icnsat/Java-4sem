@@ -33,7 +33,7 @@ public class PostOfficeServiceImpl implements PostOfficeService{
     }
 
     public PostOffice read(Long id) {
-        return postOfficeRepository.getReferenceById(id);
+        return postOfficeRepository.getById(id);
     }
 
 

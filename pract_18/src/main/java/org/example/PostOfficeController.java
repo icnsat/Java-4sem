@@ -46,7 +46,7 @@ public class PostOfficeController {
     }
 
     @GetMapping(value="/postoffice/{id}")
-    public ResponseEntity<PostOffice> read(@PathVariable(name="id") long id) {
+    public ResponseEntity<PostOffice> read(@PathVariable(name="id") Long id) {
         final PostOffice postOffice = postOfficeServiceImpl.read(id);
         return postOffice != null
                 ? new ResponseEntity<>(postOffice, HttpStatus.OK)
@@ -54,7 +54,7 @@ public class PostOfficeController {
     }
 
     @DeleteMapping(value="/postoffice/{id}")
-    public ResponseEntity<?> delete(@PathVariable(name="id") long id) {
+    public ResponseEntity<?> delete(@PathVariable(name="id") Long id) {
         final boolean deleted = postOfficeServiceImpl.delete(id);
         return deleted
                 ? new ResponseEntity<>(HttpStatus.OK)

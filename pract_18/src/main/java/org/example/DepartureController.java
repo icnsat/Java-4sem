@@ -53,7 +53,7 @@ public class DepartureController {
     }
 
     @GetMapping(value="/departure/{id}")
-    public ResponseEntity<Departure> read(@PathVariable(name="id") long id) {
+    public ResponseEntity<Departure> read(@PathVariable(name="id") Long id) {
         final Departure departure = departureServiceImpl.read(id);
         return departure != null
                 ? new ResponseEntity<>(departure, HttpStatus.OK)
@@ -61,7 +61,7 @@ public class DepartureController {
     }
 
     @DeleteMapping(value="/departure/{id}")
-    public ResponseEntity<?> delete(@PathVariable(name="id") long id) {
+    public ResponseEntity<?> delete(@PathVariable(name="id") Long id) {
         final boolean deleted = departureServiceImpl.delete(id);
         return deleted
                 ? new ResponseEntity<>(HttpStatus.OK)
