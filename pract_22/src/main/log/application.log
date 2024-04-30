@@ -1,0 +1,1115 @@
+802  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 14304 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+804  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+1290 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1338 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 39 ms. Found 2 JPA repository interfaces.
+2362 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+2384 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+2386 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+2387 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+2440 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+2440 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1586 ms
+2661 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2998 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@73d62b5
+3000 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+3042 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+3102 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+3156 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+3530 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+4485 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+4488 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+5057 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+5547 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+5568 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+5576 [main] INFO  org.example.Task22 – Started Task22 in 5.15 seconds (process running for 5.745)
+44526 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring DispatcherServlet 'dispatcherServlet'
+44526 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+44527 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Completed initialization in 1 ms
+44578 [http-nio-8080-exec-1] INFO  o.e.services.PostOfficeServiceImpl – Delete post office with id = 57 
+44648 [http-nio-8080-exec-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.delete(..) completed in 68 ms
+105424 [http-nio-8080-exec-2] INFO  o.e.services.PostOfficeServiceImpl – Read post office with name = Sdek 
+105488 [http-nio-8080-exec-2] INFO  org.example.Aspect – Method PostOfficeServiceImpl.filterByName(..) completed in 64 ms
+941  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 15664 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+943  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+1514 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1566 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 45 ms. Found 2 JPA repository interfaces.
+2615 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+2627 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+2629 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+2630 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+2695 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+2696 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1702 ms
+2870 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+3242 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@720f56e2
+3244 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+3281 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+3368 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+3424 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+3741 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+4741 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+4744 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+5321 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+5920 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+5942 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+5956 [main] INFO  org.example.Task22 – Started Task22 in 5.533 seconds (process running for 6.132)
+37030 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring DispatcherServlet 'dispatcherServlet'
+37030 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+37032 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet – Completed initialization in 2 ms
+37074 [http-nio-8080-exec-2] INFO  o.e.services.PostOfficeServiceImpl – Read post office with id = 57
+37086 [http-nio-8080-exec-2] INFO  org.example.Aspect – Method PostOfficeServiceImpl.read(..) completed in 12 ms
+37172 [http-nio-8080-exec-2] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver – Resolved [org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Unable to find org.example.entities.PostOffice with id 57]
+42722 [http-nio-8080-exec-1] INFO  o.e.services.PostOfficeServiceImpl – Read post office with id = 45
+42723 [http-nio-8080-exec-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.read(..) completed in 1 ms
+828  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 18176 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+832  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+1400 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1446 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 39 ms. Found 2 JPA repository interfaces.
+2450 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+2463 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+2465 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+2466 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+2527 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+2527 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1649 ms
+2744 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+3057 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17fbfb02
+3058 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+3099 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+3184 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+3241 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+3572 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+4417 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+4420 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+4952 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+5433 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+5454 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+5471 [main] INFO  org.example.Task22 – Started Task22 in 5.065 seconds (process running for 5.636)
+15605 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring DispatcherServlet 'dispatcherServlet'
+15605 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+15607 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Completed initialization in 2 ms
+15652 [http-nio-8080-exec-1] INFO  o.e.services.PostOfficeServiceImpl – Read post office with id = 45
+15663 [http-nio-8080-exec-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.read(..) completed in 10 ms
+27253 [http-nio-8080-exec-2] INFO  o.e.services.PostOfficeServiceImpl – Read post office with name = Sdek 
+27347 [http-nio-8080-exec-2] INFO  org.example.Aspect – Method PostOfficeServiceImpl.filterByName(..) completed in 94 ms
+33773 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+33779 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 6 ms
+33781 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+33787 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 6 ms
+33789 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 20 ms
+63757 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+63762 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 5 ms
+63766 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+63769 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 3 ms
+63771 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 26 ms
+93751 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+93763 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 12 ms
+93765 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+93770 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 5 ms
+93773 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 33 ms
+905  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 15992 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+909  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+1488 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1540 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 43 ms. Found 2 JPA repository interfaces.
+2571 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+2584 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+2586 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+2587 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+2654 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+2654 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1681 ms
+2876 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+3178 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a47730c
+3181 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+3220 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+3288 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+3355 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+3711 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+4684 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+4687 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+5256 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+5804 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+5841 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+5864 [main] INFO  org.example.Task22 – Started Task22 in 5.418 seconds (process running for 6.04)
+9193 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring DispatcherServlet 'dispatcherServlet'
+9193 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+9195 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Completed initialization in 2 ms
+9239 [http-nio-8080-exec-1] INFO  o.e.services.PostOfficeServiceImpl – Read post office with name = Sdek 
+9358 [http-nio-8080-exec-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.filterByName(..) completed in 116 ms
+21719 [http-nio-8080-exec-2] INFO  o.e.services.PostOfficeServiceImpl – Read post office with name = NewPochta 
+21732 [http-nio-8080-exec-2] INFO  org.example.Aspect – Method PostOfficeServiceImpl.filterByName(..) completed in 13 ms
+29520 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+29543 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 23 ms
+29551 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+29555 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 6 ms
+29570 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 57 ms
+891  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 29756 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+894  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+1404 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1445 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 33 ms. Found 2 JPA repository interfaces.
+2471 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+2483 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+2484 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+2485 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+2528 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+2528 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1566 ms
+2699 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2945 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@45e140ae
+2946 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+2975 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+3029 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+3055 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+3441 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+4091 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+4093 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+4515 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+4870 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+4887 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+4902 [main] INFO  org.example.Task22 – Started Task22 in 4.463 seconds (process running for 5.085)
+4995 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring DispatcherServlet 'dispatcherServlet'
+4995 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+4996 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Completed initialization in 1 ms
+5031 [http-nio-8080-exec-1] INFO  o.e.services.PostOfficeServiceImpl – Read post office with name = NewPochta 
+5106 [http-nio-8080-exec-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.filterByName(..) completed in 74 ms
+6259 [http-nio-8080-exec-3] INFO  o.e.services.PostOfficeServiceImpl – Read post office with name = NewPochta 
+6262 [http-nio-8080-exec-3] INFO  org.example.Aspect – Method PostOfficeServiceImpl.filterByName(..) completed in 3 ms
+13519 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+13547 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 28 ms
+13555 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+13568 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 13 ms
+13572 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 64 ms
+28068 [http-nio-8080-exec-5] INFO  o.e.services.PostOfficeServiceImpl – Read post office with name = somePochta 
+28071 [http-nio-8080-exec-5] INFO  org.example.Aspect – Method PostOfficeServiceImpl.filterByName(..) completed in 3 ms
+43510 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+43513 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 3 ms
+43515 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+43518 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 3 ms
+43519 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 15 ms
+889  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 4940 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+891  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+1467 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1520 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 42 ms. Found 2 JPA repository interfaces.
+2614 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+2629 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+2631 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+2631 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+2731 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+2732 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1792 ms
+3008 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+3353 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17fbfb02
+3355 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+3409 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+3465 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+3517 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+3857 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+4761 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+4764 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+5326 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+5774 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+5796 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+5810 [main] INFO  org.example.Task22 – Started Task22 in 5.376 seconds (process running for 5.977)
+13539 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring DispatcherServlet 'dispatcherServlet'
+13540 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+13541 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Completed initialization in 1 ms
+13585 [http-nio-8080-exec-1] INFO  o.e.services.PostOfficeServiceImpl – Read post office with name = somePochta 
+13744 [http-nio-8080-exec-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.filterByName(..) completed in 158 ms
+612  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 10112 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+614  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+1046 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1080 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 28 ms. Found 2 JPA repository interfaces.
+1843 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+1853 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+1856 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+1856 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+1905 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1905 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1258 ms
+2024 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2270 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@267891bf
+2271 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+2300 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+2342 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+2369 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+2642 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+3283 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+3285 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+3633 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+3969 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+3981 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+3991 [main] INFO  org.example.Task22 – Started Task22 in 3.685 seconds (process running for 4.144)
+3999 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:93)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:63)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+556  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 13160 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+558  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+939  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+974  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
+1674 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+1683 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+1685 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+1686 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+1732 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1733 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1141 ms
+1856 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2060 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7af1d072
+2061 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+2096 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+2150 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+2187 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+2406 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+3050 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+3052 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+3416 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+3778 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+3791 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+3802 [main] INFO  org.example.Task22 – Started Task22 in 3.538 seconds (process running for 3.915)
+8790 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+18783 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+28787 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+38785 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+48784 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+58782 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+68784 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+78788 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+88784 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+98794 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+108787 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:94)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+563  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 29784 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+565  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+965  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1001 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
+1672 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+1684 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+1686 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+1687 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+1737 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1737 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1136 ms
+1862 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2071 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4662752a
+2072 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+2107 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+2160 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+2195 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+2425 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+3075 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+3077 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+3430 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+3757 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+3774 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+3783 [main] INFO  org.example.Task22 – Started Task22 in 3.516 seconds (process running for 3.9)
+9010 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:96)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:66)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+559  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 11580 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+561  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+945  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+981  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
+1673 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+1683 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+1685 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+1685 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+1733 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1733 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1139 ms
+1862 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2068 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b5021d1
+2069 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+2100 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+2144 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+2170 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+2409 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+3033 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+3034 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+3378 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+3855 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+3883 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+3902 [main] INFO  org.example.Task22 – Started Task22 in 3.643 seconds (process running for 4.015)
+6102 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:96)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:66)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+16098 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:96)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:66)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+26099 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler – Unexpected error occurred in scheduled task
+java.lang.NullPointerException: Cannot read the array length because "<local5>" is null
+	at org.example.services.SchedulerService.deleteOldDirectories(SchedulerService.java:96)
+	at org.example.services.SchedulerService.backupFromDatabase(SchedulerService.java:66)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at org.example.Aspect.getExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717)
+	at org.example.services.SchedulerService$$SpringCGLIB$$0.backupFromDatabase(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.runInternal(ScheduledMethodRunnable.java:130)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.lambda$run$2(ScheduledMethodRunnable.java:124)
+	at io.micrometer.observation.Observation.observe(Observation.java:499)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:124)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+550  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 19084 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+552  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+931  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+968  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
+1636 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+1646 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+1648 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+1648 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+1694 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1695 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1109 ms
+1818 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2030 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a47730c
+2031 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+2063 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+2112 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+2140 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+2389 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+3001 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+3003 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+3389 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+3766 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+3781 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+3794 [main] INFO  org.example.Task22 – Started Task22 in 3.531 seconds (process running for 3.908)
+4430 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+4507 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 75 ms
+4514 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+4522 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 8 ms
+4525 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 101 ms
+14416 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+14418 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 2 ms
+14420 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+14422 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 2 ms
+14425 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 12 ms
+24424 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+24427 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 3 ms
+24430 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+24432 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 2 ms
+24433 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 17 ms
+34418 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+34420 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 2 ms
+34421 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+34423 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 2 ms
+34424 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 9 ms
+547  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 19848 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+549  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+969  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1005 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
+1780 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+1792 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+1795 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+1795 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+1848 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1849 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1257 ms
+1977 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2194 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@267891bf
+2195 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+2223 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+2264 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+2288 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+2535 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+3141 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+3143 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+3494 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+3790 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+3805 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+3816 [main] INFO  org.example.Task22 – Started Task22 in 3.555 seconds (process running for 3.937)
+8533 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+8611 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 77 ms
+8618 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+8626 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 8 ms
+8629 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 102 ms
+579  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 23240 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+581  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+962  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+998  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 29 ms. Found 2 JPA repository interfaces.
+1698 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+1709 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+1711 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+1711 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+1766 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1766 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1148 ms
+1917 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2132 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@642c6461
+2133 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+2169 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+2214 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+2253 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+2505 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+3119 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+3121 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+3476 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+3864 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+3881 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+3893 [main] INFO  org.example.Task22 – Started Task22 in 3.619 seconds (process running for 4.012)
+5150 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+5235 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 83 ms
+5242 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+5249 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 7 ms
+5253 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 108 ms
+15137 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+15140 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 3 ms
+15141 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+15143 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 2 ms
+15144 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 8 ms
+25148 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+25151 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 3 ms
+25153 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+25155 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 2 ms
+25156 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 10 ms
+35141 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+35144 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 3 ms
+35146 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+35149 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 3 ms
+35150 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 12 ms
+45134 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+45136 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 2 ms
+45138 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+45140 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 2 ms
+45142 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 10 ms
+55140 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+55142 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 2 ms
+55144 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+55146 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 2 ms
+55147 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 9 ms
+65144 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+65146 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 2 ms
+65147 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+65150 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 3 ms
+65150 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 9 ms
+565  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 20428 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+567  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+937  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+974  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 31 ms. Found 2 JPA repository interfaces.
+1658 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+1667 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+1668 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+1669 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+1715 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1715 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1115 ms
+1849 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2062 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@799f354a
+2064 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+2096 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+2140 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+2167 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+2427 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+3039 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+3041 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+3444 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+3779 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+3794 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+3809 [main] INFO  org.example.Task22 – Started Task22 in 3.542 seconds (process running for 3.924)
+13481 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+13567 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 85 ms
+13574 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+13583 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 9 ms
+13586 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 111 ms
+23477 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+23480 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 3 ms
+23481 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+23483 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 2 ms
+23484 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 14 ms
+33476 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+33479 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 3 ms
+33480 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+33483 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 3 ms
+33484 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 10 ms
+43478 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+43480 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 2 ms
+43482 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+43486 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 4 ms
+43489 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 16 ms
+578  [main] INFO  org.example.Task22 – Starting Task22 using Java 19.0.2 with PID 19920 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_22\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+580  [main] INFO  org.example.Task22 – No active profile set, falling back to 1 default profile: "default"
+998  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1041 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 36 ms. Found 2 JPA repository interfaces.
+1859 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port 8080 (http)
+1869 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8080"]
+1871 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+1871 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/10.1.19]
+1916 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1916 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 1301 ms
+2079 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+2306 [main] INFO  com.zaxxer.hikari.pool.HikariPool – HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a47730c
+2307 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+2339 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+2381 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 6.4.4.Final
+2407 [main] INFO  o.h.c.i.RegionFactoryInitiator – HHH000026: Second-level cache disabled
+2667 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo – No LoadTimeWeaver setup: ignoring JPA class transformer
+3302 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+3303 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+3662 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+4029 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8080"]
+4041 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port 8080 (http) with context path ''
+4052 [main] INFO  org.example.Task22 – Started Task22 in 3.774 seconds (process running for 4.178)
+7131 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+7205 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 73 ms
+7212 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+7224 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 12 ms
+7227 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 102 ms
+17127 [scheduling-1] INFO  o.e.services.DepartureServiceImpl – Read all departures
+17129 [scheduling-1] INFO  org.example.Aspect – Method DepartureServiceImpl.readAll() completed in 2 ms
+17131 [scheduling-1] INFO  o.e.services.PostOfficeServiceImpl – Read all post offices
+17133 [scheduling-1] INFO  org.example.Aspect – Method PostOfficeServiceImpl.readAll() completed in 2 ms
+17135 [scheduling-1] INFO  org.example.Aspect – Method SchedulerService.backupFromDatabase() completed in 10 ms
