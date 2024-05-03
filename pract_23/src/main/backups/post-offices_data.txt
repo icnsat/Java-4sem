@@ -1,7 +1,0 @@
-PostOffice{id=27, name='Sdek', cityName='Krasnodar'}
-PostOffice{id=45, name='PochtaRossii', cityName='Moscow'}
-PostOffice{id=53, name='PochtaRossii', cityName='Samara'}
-PostOffice{id=55, name='pochta', cityName='N.N.'}
-PostOffice{id=58, name='somePochta', cityName='Zelenograd'}
-PostOffice{id=59, name='dpd', cityName='Zelenograd'}
-PostOffice{id=60, name='dpd', cityName='Moscow'}
