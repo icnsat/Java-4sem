@@ -1,22 +1,13 @@
-package org.example.interfaces;
-
-import org.example.entities.Departure;
-import org.example.entities.PostOffice;
+package org.example;
 
 import java.util.List;
 
-public interface DepartureService {
-    void create(Departure departure);
+public interface UserService {
+    User addUser(UserDTO dto);
 
-    List<Departure> readAll();
+    List<User> readAll();
 
-    Departure read(Long id);
+    User update(User user);
 
-    boolean delete(Long id);
-
-    List<Departure> filterByType(String type);
-
-    List<Departure> filterByTypeAndDate(String type, String date);
-
-    PostOffice getPostOfficeByDeparture(Long departureId);
+    void delete(Long id);
 }

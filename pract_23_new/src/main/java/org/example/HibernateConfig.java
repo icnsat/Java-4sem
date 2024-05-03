@@ -15,18 +15,12 @@ import org.springframework.transaction.PlatformTransactionManager;
 
 import javax.sql.DataSource;
 import java.util.Properties;
-/*@Configuration
-@EnableJpaRepositories("org.example.repositories")
-@EnableAspectJAutoProxy
-@EnableAsync
-@EnableScheduling
-public class Config {
-}*/
+
 
 @Configuration
 @ComponentScan("org.example")
 @EnableJpaRepositories("org.example")
-public class HibernateConfig {
+public class HibernateConfig {/*
 
     @Bean
     public DataSource dataSource() {
@@ -58,7 +52,7 @@ public class HibernateConfig {
         transactionManager.setSessionFactory(entityManagerFactory);
         return transactionManager;*/
 
-        return new JpaTransactionManager(entityManagerFactory);
+       // return new JpaTransactionManager(entityManagerFactory);
 
-    }
+    //}
 }

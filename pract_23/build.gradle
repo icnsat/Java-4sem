@@ -1,0 +1,46 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.2.4'
+    id 'io.spring.dependency-management' version '1.1.4'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies{
+    implementation 'org.springframework.boot:spring-boot-starter-parent:3.2.0'
+
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation('org.projectlombok:lombok')
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    testImplementation 'org.slf4j:slf4j-simple:2.0.13'
+    implementation 'org.slf4j:slf4j-api:2.0.13'
+    implementation 'com.mysql:mysql-connector-j:8.3.0'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation 'org.springframework.boot:spring-boot-starter-mail:3.2.5'
+
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+
+
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+    implementation 'org.thymeleaf.extras:thymeleaf-extras-springsecurity6:3.1.1.RELEASE'
+
+
+
+
+    implementation 'org.springframework.security:spring-security-config:6.2.4'
+    //implementation 'org.springframework.boot:spring-boot-starter-security:3.2.5'
+    //implementation("org.springframework.boot:spring-boot-starter-security")
+    testImplementation 'org.springframework.security:spring-security-test'
+    implementation 'org.springframework.security:spring-security-web:6.2.4'
+
+
+}
+
+test {
+    useJUnitPlatform()
+}

@@ -1,5 +1,5 @@
-542  [main] INFO  org.example.Task22 � Starting Task19 using Java 19.0.2 with PID 11368 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_19\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-544  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+542  [main] INFO  org.org.example.Task24 � Starting Task19 using Java 19.0.2 with PID 11368 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_19\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+544  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 939  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 975  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
 1561 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -20,9 +20,9 @@
 3324 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3677 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3703 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3712 [main] INFO  org.example.Task22 � Started Task19 in 3.453 seconds (process running for 3.831)
-529  [main] INFO  org.example.Task22 � Starting Task19 using Java 19.0.2 with PID 15708 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_19\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-531  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+3712 [main] INFO  org.org.example.Task24 � Started Task19 in 3.453 seconds (process running for 3.831)
+529  [main] INFO  org.org.example.Task24 � Starting Task19 using Java 19.0.2 with PID 15708 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_19\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+531  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 903  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 939  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
 1511 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -43,9 +43,9 @@
 3258 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3617 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3645 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3655 [main] INFO  org.example.Task22 � Started Task19 in 3.4 seconds (process running for 3.762)
-539  [main] INFO  org.example.Task22 � Starting Task19 using Java 19.0.2 with PID 19736 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_19\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-541  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+3655 [main] INFO  org.org.example.Task24 � Started Task19 in 3.4 seconds (process running for 3.762)
+539  [main] INFO  org.org.example.Task24 � Starting Task19 using Java 19.0.2 with PID 19736 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_19\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+541  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 916  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 951  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 29 ms. Found 2 JPA repository interfaces.
 1524 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -66,9 +66,9 @@
 3320 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3624 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3653 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3663 [main] INFO  org.example.Task22 � Started Task19 in 3.404 seconds (process running for 3.781)
-701  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 16472 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-704  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+3663 [main] INFO  org.org.example.Task24 � Started Task19 in 3.404 seconds (process running for 3.781)
+701  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 16472 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+704  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1193 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1236 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 34 ms. Found 2 JPA repository interfaces.
 2000 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -89,9 +89,9 @@
 3878 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 4193 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 4213 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-4221 [main] INFO  org.example.Task22 � Started Task20 in 3.874 seconds (process running for 4.344)
-557  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 15700 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-559  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+4221 [main] INFO  org.org.example.Task24 � Started Task20 in 3.874 seconds (process running for 4.344)
+557  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 15700 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+559  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 932  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 970  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 31 ms. Found 2 JPA repository interfaces.
 1719 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -112,7 +112,7 @@
 3504 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3990 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 4021 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-4029 [main] INFO  org.example.Task22 � Started Task20 in 3.765 seconds (process running for 4.163)
+4029 [main] INFO  org.org.example.Task24 � Started Task20 in 3.765 seconds (process running for 4.163)
 44812 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 44812 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 44813 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
@@ -180,8 +180,8 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:1589)
-572  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 28376 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-574  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+572  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 28376 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+574  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 934  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 972  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 32 ms. Found 2 JPA repository interfaces.
 1624 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -202,7 +202,7 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 3378 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3721 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3745 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3757 [main] INFO  org.example.Task22 � Started Task20 in 3.491 seconds (process running for 3.876)
+3757 [main] INFO  org.org.example.Task24 � Started Task20 in 3.491 seconds (process running for 3.876)
 19896 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 19896 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 19897 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
@@ -554,8 +554,8 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:1589)
-533  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 1796 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-535  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+533  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 1796 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+535  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 883  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 920  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 31 ms. Found 2 JPA repository interfaces.
 1548 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -576,7 +576,7 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 3306 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3597 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3613 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3622 [main] INFO  org.example.Task22 � Started Task20 in 3.37 seconds (process running for 3.766)
+3622 [main] INFO  org.org.example.Task24 � Started Task20 in 3.37 seconds (process running for 3.766)
 17006 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 17007 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 17007 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 0 ms
@@ -644,8 +644,8 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:1589)
-562  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 16132 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-563  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+562  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 16132 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+563  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 959  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 996  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 31 ms. Found 2 JPA repository interfaces.
 1662 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -666,13 +666,13 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 3381 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3710 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3729 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3737 [main] INFO  org.example.Task22 � Started Task20 in 3.463 seconds (process running for 3.858)
+3737 [main] INFO  org.org.example.Task24 � Started Task20 in 3.463 seconds (process running for 3.858)
 23245 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 23245 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 23246 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
 23278 [http-nio-8080-exec-1] INFO  org.example.Aspect � Parameters: 45
-556  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 26696 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-559  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+556  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 26696 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+559  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 938  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 978  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 33 ms. Found 2 JPA repository interfaces.
 1674 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -693,7 +693,7 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 3428 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3744 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3764 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3773 [main] INFO  org.example.Task22 � Started Task20 in 3.506 seconds (process running for 3.885)
+3773 [main] INFO  org.org.example.Task24 � Started Task20 in 3.506 seconds (process running for 3.885)
 3935 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 3936 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 3936 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 0 ms
@@ -825,8 +825,8 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:1589)
-578  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 18916 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-580  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+578  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 18916 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+580  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 994  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1033 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 33 ms. Found 2 JPA repository interfaces.
 1727 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -847,14 +847,14 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 3485 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3828 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3843 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3852 [main] INFO  org.example.Task22 � Started Task20 in 3.573 seconds (process running for 3.965)
+3852 [main] INFO  org.org.example.Task24 � Started Task20 in 3.573 seconds (process running for 3.965)
 6090 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 6090 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 6091 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
 6126 [http-nio-8080-exec-1] INFO  org.example.Aspect � Parameters: 45
 74793 [http-nio-8080-exec-2] INFO  org.example.Aspect � Parameters: Sdek
-565  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 20968 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-567  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+565  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 20968 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+567  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 972  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1009 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 31 ms. Found 2 JPA repository interfaces.
 1637 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -875,7 +875,7 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 3383 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3775 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3797 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3806 [main] INFO  org.example.Task22 � Started Task20 in 3.539 seconds (process running for 3.926)
+3806 [main] INFO  org.org.example.Task24 � Started Task20 in 3.539 seconds (process running for 3.926)
 7246 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 7246 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 7247 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
@@ -908,10 +908,10 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 32817 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
 32847 [http-nio-8080-exec-1] INFO  org.example.PostOfficeServiceImpl � Read post office with name = Sdek 
 55125 [http-nio-8080-exec-2] INFO  org.example.PostOfficeServiceImpl � Read post office with id = 45
-67156 [http-nio-8080-exec-4] INFO  org.example.DepartureServiceImpl � Get post office id of departure with id = 26
-119874 [http-nio-8080-exec-7] INFO  org.example.DepartureServiceImpl � Read departure with type = small and date = 12-12-20 
-709  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 452 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-711  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+67156 [http-nio-8080-exec-4] INFO  org.example.UserServiceImpl � Get post office id of departure with id = 26
+119874 [http-nio-8080-exec-7] INFO  org.example.UserServiceImpl � Read departure with type = small and date = 12-12-20
+709  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 452 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+711  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1236 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1276 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 31 ms. Found 2 JPA repository interfaces.
 2009 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -932,7 +932,7 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 3827 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 4235 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 4254 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-4264 [main] INFO  org.example.Task22 � Started Task20 in 3.892 seconds (process running for 4.427)
+4264 [main] INFO  org.org.example.Task24 � Started Task20 in 3.892 seconds (process running for 4.427)
 10505 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 10506 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 10506 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 0 ms
@@ -940,8 +940,8 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 10628 [http-nio-8080-exec-1] INFO  org.example.Aspect � ����� DepartureServiceImpl.filterByTypeAndDate(..) ���������� 87 ��
 29792 [http-nio-8080-exec-3] INFO  o.e.services.DepartureServiceImpl � Read departure with type = small and date = 12-12-20 
 29796 [http-nio-8080-exec-3] INFO  org.example.Aspect � ����� DepartureServiceImpl.filterByTypeAndDate(..) ���������� 4 ��
-558  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 10148 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-559  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+558  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 10148 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+559  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 975  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1014 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 33 ms. Found 2 JPA repository interfaces.
 1695 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -962,7 +962,7 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 3507 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3889 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3904 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3916 [main] INFO  org.example.Task22 � Started Task20 in 3.643 seconds (process running for 4.031)
+3916 [main] INFO  org.org.example.Task24 � Started Task20 in 3.643 seconds (process running for 4.031)
 8279 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 8279 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 8280 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
@@ -970,8 +970,8 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 8397 [http-nio-8080-exec-1] INFO  org.example.Aspect � Method DepartureServiceImpl.filterByTypeAndDate(..) completed in 87 ��
 21968 [http-nio-8080-exec-2] INFO  o.e.services.DepartureServiceImpl � Read departure with type = small and date = 12-12-20 
 21977 [http-nio-8080-exec-2] INFO  org.example.Aspect � Method DepartureServiceImpl.filterByTypeAndDate(..) completed in 10 ��
-569  [main] INFO  org.example.Task22 � Starting Task20 using Java 19.0.2 with PID 23940 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-571  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+569  [main] INFO  org.org.example.Task24 � Starting Task20 using Java 19.0.2 with PID 23940 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_20\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+571  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 969  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1007 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
 1709 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -992,7 +992,7 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 3431 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3855 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3875 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3885 [main] INFO  org.example.Task22 � Started Task20 in 3.61 seconds (process running for 4.001)
+3885 [main] INFO  org.org.example.Task24 � Started Task20 in 3.61 seconds (process running for 4.001)
 6088 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 6088 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 6089 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 0 ms
@@ -1002,8 +1002,8 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer fou
 21745 [http-nio-8080-exec-3] INFO  org.example.Aspect � Method DepartureServiceImpl.read(..) completed in 15 ms
 32875 [http-nio-8080-exec-5] INFO  o.e.services.PostOfficeServiceImpl � Read post office with name = Sdek 
 32879 [http-nio-8080-exec-5] INFO  org.example.Aspect � Method PostOfficeServiceImpl.filterByName(..) completed in 4 ms
-946  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 20852 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-950  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+946  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 20852 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+950  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1548 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1600 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 43 ms. Found 2 JPA repository interfaces.
 2635 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -1044,8 +1044,8 @@ Action:
 
 Consider defining a bean of type 'org.springframework.mail.javamail.JavaMailSenderImpl' in your configuration.
 
-847  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 28724 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-850  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+847  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 28724 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+850  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1407 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1451 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 37 ms. Found 2 JPA repository interfaces.
 2469 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -1086,8 +1086,8 @@ Action:
 
 Consider defining a bean of type 'org.springframework.mail.javamail.JavaMailSenderImpl' in your configuration.
 
-778  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 25440 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-781  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+778  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 25440 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+781  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1250 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1297 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 38 ms. Found 2 JPA repository interfaces.
 2257 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -1108,7 +1108,7 @@ Consider defining a bean of type 'org.springframework.mail.javamail.JavaMailSend
 4648 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 5164 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 5181 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-5191 [main] INFO  org.example.Task22 � Started Task21 in 4.816 seconds (process running for 5.338)
+5191 [main] INFO  org.org.example.Task24 � Started Task21 in 4.816 seconds (process running for 5.338)
 67139 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 67140 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 67140 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 0 ms
@@ -1218,8 +1218,8 @@ java.lang.NullPointerException: Cannot invoke "org.example.services.EmailService
 26868 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
 26951 [http-nio-8080-exec-1] INFO  o.e.services.PostOfficeServiceImpl � Save new post office
 27007 [http-nio-8080-exec-1] INFO  org.example.Aspect � Method PostOfficeServiceImpl.create(..) completed in 54 ms
-798  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 8044 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-801  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+798  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 8044 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+801  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1373 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1421 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 42 ms. Found 2 JPA repository interfaces.
 2391 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -1240,7 +1240,7 @@ java.lang.NullPointerException: Cannot invoke "org.example.services.EmailService
 4750 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 5246 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 5279 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-5291 [main] INFO  org.example.Task22 � Started Task21 in 4.923 seconds (process running for 5.46)
+5291 [main] INFO  org.org.example.Task24 � Started Task21 in 4.923 seconds (process running for 5.46)
 44177 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 44178 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 44178 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 0 ms
@@ -2351,8 +2351,8 @@ java.lang.NullPointerException: Cannot invoke "org.example.services.EmailService
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:1589)
-845  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 12160 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-849  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+845  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 12160 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+849  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1404 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1448 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 38 ms. Found 2 JPA repository interfaces.
 2379 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -2373,7 +2373,7 @@ java.lang.NullPointerException: Cannot invoke "org.example.services.EmailService
 4663 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 5160 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 5179 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-5187 [main] INFO  org.example.Task22 � Started Task21 in 4.787 seconds (process running for 5.343)
+5187 [main] INFO  org.org.example.Task24 � Started Task21 in 4.787 seconds (process running for 5.343)
 10220 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 10221 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 10222 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
@@ -2417,8 +2417,8 @@ Caused by: jakarta.mail.AuthenticationFailedException: 535 5.7.8 Error: authenti
 	at org.springframework.mail.javamail.JavaMailSenderImpl.connectTransport(JavaMailSenderImpl.java:480)
 	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:399)
 	... 26 common frames omitted
-695  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 23080 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-697  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+695  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 23080 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+697  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1139 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1179 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 33 ms. Found 2 JPA repository interfaces.
 1936 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -2439,7 +2439,7 @@ Caused by: jakarta.mail.AuthenticationFailedException: 535 5.7.8 Error: authenti
 3926 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 4294 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 4316 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-4324 [main] INFO  org.example.Task22 � Started Task21 in 3.97 seconds (process running for 4.448)
+4324 [main] INFO  org.org.example.Task24 � Started Task21 in 3.97 seconds (process running for 4.448)
 53680 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 53680 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 53681 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 0 ms
@@ -2483,8 +2483,8 @@ Caused by: jakarta.mail.AuthenticationFailedException: 535 5.7.8 Error: authenti
 	at org.springframework.mail.javamail.JavaMailSenderImpl.connectTransport(JavaMailSenderImpl.java:480)
 	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:399)
 	... 26 common frames omitted
-594  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 11716 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-596  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+594  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 11716 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+596  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 962  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 999  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
 1784 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -2505,7 +2505,7 @@ Caused by: jakarta.mail.AuthenticationFailedException: 535 5.7.8 Error: authenti
 3578 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3911 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3930 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3941 [main] INFO  org.example.Task22 � Started Task21 in 3.664 seconds (process running for 4.061)
+3941 [main] INFO  org.org.example.Task24 � Started Task21 in 3.664 seconds (process running for 4.061)
 35192 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 35192 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 35193 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
@@ -2549,8 +2549,8 @@ Caused by: jakarta.mail.AuthenticationFailedException: 535 5.7.8 Error: authenti
 	at org.springframework.mail.javamail.JavaMailSenderImpl.connectTransport(JavaMailSenderImpl.java:480)
 	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:399)
 	... 26 common frames omitted
-601  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 30236 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-604  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+601  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 30236 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+604  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1011 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1048 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 32 ms. Found 2 JPA repository interfaces.
 1834 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -2571,15 +2571,15 @@ Caused by: jakarta.mail.AuthenticationFailedException: 535 5.7.8 Error: authenti
 3621 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 4028 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 4046 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-4058 [main] INFO  org.example.Task22 � Started Task21 in 3.759 seconds (process running for 4.202)
+4058 [main] INFO  org.org.example.Task24 � Started Task21 in 3.759 seconds (process running for 4.202)
 39201 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 39201 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 39202 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
 39274 [http-nio-8080-exec-1] INFO  o.e.services.PostOfficeServiceImpl � Save new post office
 39305 [http-nio-8080-exec-1] INFO  org.example.Aspect � Method PostOfficeServiceImpl.create(..) completed in 27 ms
 51014 [task-1] INFO  org.example.Aspect � Method EmailService.sendNotification(..) completed in 11711 ms
-578  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 9252 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-580  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+578  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 9252 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+580  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 990  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1024 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 29 ms. Found 2 JPA repository interfaces.
 1852 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -2600,7 +2600,7 @@ Caused by: jakarta.mail.AuthenticationFailedException: 535 5.7.8 Error: authenti
 3690 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 4138 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 4158 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-4166 [main] INFO  org.example.Task22 � Started Task21 in 3.892 seconds (process running for 4.291)
+4166 [main] INFO  org.org.example.Task24 � Started Task21 in 3.892 seconds (process running for 4.291)
 53475 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 53475 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 53476 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 0 ms
@@ -3192,8 +3192,8 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:1589)
-551  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 26772 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-554  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+551  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 26772 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+554  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 937  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 974  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 31 ms. Found 2 JPA repository interfaces.
 1698 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -3214,7 +3214,7 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 3466 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3817 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3839 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3846 [main] INFO  org.example.Task22 � Started Task21 in 3.586 seconds (process running for 3.959)
+3846 [main] INFO  org.org.example.Task24 � Started Task21 in 3.586 seconds (process running for 3.959)
 8367 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 8367 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 8368 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 0 ms
@@ -3228,8 +3228,8 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 53389 [http-nio-8080-exec-5] INFO  org.example.Aspect � Method DepartureServiceImpl.delete(..) completed in 39 ms
 59385 [http-nio-8080-exec-8] INFO  o.e.services.DepartureServiceImpl � Delete departure with id = 29
 59388 [http-nio-8080-exec-8] INFO  org.example.Aspect � Method DepartureServiceImpl.delete(..) completed in 3 ms
-587  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 13268 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-590  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+587  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 13268 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+590  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1004 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1040 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
 1776 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -3250,9 +3250,9 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 3588 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 4049 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 4066 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-4073 [main] INFO  org.example.Task22 � Started Task21 in 3.813 seconds (process running for 4.192)
-552  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 30280 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-554  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+4073 [main] INFO  org.org.example.Task24 � Started Task21 in 3.813 seconds (process running for 4.192)
+552  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 30280 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+554  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 932  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 971  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 34 ms. Found 2 JPA repository interfaces.
 1662 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -3273,7 +3273,7 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 3381 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3702 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3722 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3730 [main] INFO  org.example.Task22 � Started Task21 in 3.469 seconds (process running for 3.841)
+3730 [main] INFO  org.org.example.Task24 � Started Task21 in 3.469 seconds (process running for 3.841)
 48668 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 48668 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 48669 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
@@ -3281,8 +3281,8 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 67801 [http-nio-8080-exec-2] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver � Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `org.example.entities.PostOffice` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (45)]
 100421 [http-nio-8080-exec-3] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver � Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `org.example.entities.PostOffice` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (45)]
 132190 [http-nio-8080-exec-4] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver � Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `org.example.entities.PostOffice` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('45')]
-566  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 18148 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-568  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+566  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 18148 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+568  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 935  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 972  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
 1657 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -3304,9 +3304,9 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 3424 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3884 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3910 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3918 [main] INFO  org.example.Task22 � Started Task21 in 3.653 seconds (process running for 4.035)
-572  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 14300 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-574  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+3918 [main] INFO  org.org.example.Task24 � Started Task21 in 3.653 seconds (process running for 4.035)
+572  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 14300 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+574  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 984  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1024 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 34 ms. Found 2 JPA repository interfaces.
 1733 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -3328,7 +3328,7 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 3462 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3794 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3817 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3823 [main] INFO  org.example.Task22 � Started Task21 in 3.56 seconds (process running for 3.946)
+3823 [main] INFO  org.org.example.Task24 � Started Task21 in 3.56 seconds (process running for 3.946)
 53681 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 53681 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 53683 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
@@ -3397,8 +3397,8 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct 
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:1589)
-556  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 20396 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-558  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+556  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 20396 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+558  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 986  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1027 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 35 ms. Found 2 JPA repository interfaces.
 1789 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -3420,7 +3420,7 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct 
 3572 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3890 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3916 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3926 [main] INFO  org.example.Task22 � Started Task21 in 3.668 seconds (process running for 4.036)
+3926 [main] INFO  org.org.example.Task24 � Started Task21 in 3.668 seconds (process running for 4.036)
 30757 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 30757 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 30758 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
@@ -3554,8 +3554,8 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct 
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:1589)
-576  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 16560 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-578  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+576  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 16560 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+578  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 954  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 987  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 29 ms. Found 2 JPA repository interfaces.
 1664 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -3576,7 +3576,7 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct 
 3374 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3742 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3757 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3764 [main] INFO  org.example.Task22 � Started Task21 in 3.483 seconds (process running for 3.888)
+3764 [main] INFO  org.org.example.Task24 � Started Task21 in 3.483 seconds (process running for 3.888)
 11795 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 11795 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 11796 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms
@@ -3727,8 +3727,8 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:1589)
-660  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 11920 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-662  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+660  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 11920 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+662  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 1167 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1202 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 29 ms. Found 2 JPA repository interfaces.
 1998 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -3770,7 +3770,7 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
-	at org.example.Task22.main(Task21.java:11)
+	at org.org.example.Task24.main(Task21.java:11)
 Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'office_id' is duplicated in mapping for entity 'org.example.entities.Departure' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
 	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:421)
 	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
@@ -3792,8 +3792,8 @@ Caused by: org.hibernate.MappingException: Column 'office_id' is duplicated in m
 	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:390)
 	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
 	... 20 common frames omitted
-557  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 2668 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-559  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+557  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 2668 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+559  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 951  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 986  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 28 ms. Found 2 JPA repository interfaces.
 1665 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -3814,7 +3814,7 @@ Caused by: org.hibernate.MappingException: Column 'office_id' is duplicated in m
 3441 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3808 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3822 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3829 [main] INFO  org.example.Task22 � Started Task21 in 3.562 seconds (process running for 3.942)
+3829 [main] INFO  org.org.example.Task24 � Started Task21 in 3.562 seconds (process running for 3.942)
 56497 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 56498 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 56498 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 0 ms
@@ -4112,8 +4112,8 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
 	at java.base/java.lang.Thread.run(Thread.java:1589)
-566  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 12588 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-568  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+566  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 12588 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+568  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 975  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1010 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
 1713 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -4134,9 +4134,9 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 3548 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3925 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3945 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3952 [main] INFO  org.example.Task22 � Started Task21 in 3.681 seconds (process running for 4.066)
-570  [main] INFO  org.example.Task22 � Starting Task21 using Java 19.0.2 with PID 28916 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
-572  [main] INFO  org.example.Task22 � No active profile set, falling back to 1 default profile: "default"
+3952 [main] INFO  org.org.example.Task24 � Started Task21 in 3.681 seconds (process running for 4.066)
+570  [main] INFO  org.org.example.Task24 � Starting Task21 using Java 19.0.2 with PID 28916 (C:\Users\eliza\IdeaProjects\Java-4sem\pract_21\build\classes\java\main started by eliza in C:\Users\eliza\IdeaProjects\Java-4sem)
+572  [main] INFO  org.org.example.Task24 � No active profile set, falling back to 1 default profile: "default"
 970  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 1016 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate � Finished Spring Data repository scanning in 38 ms. Found 2 JPA repository interfaces.
 1820 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat initialized with port 8080 (http)
@@ -4157,7 +4157,7 @@ java.sql.SQLIntegrityConstraintViolationException: Column 'office_id' cannot be 
 3584 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration � spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 3911 [main] INFO  o.a.coyote.http11.Http11NioProtocol � Starting ProtocolHandler ["http-nio-8080"]
 3927 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer � Tomcat started on port 8080 (http) with context path ''
-3936 [main] INFO  org.example.Task22 � Started Task21 in 3.673 seconds (process running for 4.053)
+3936 [main] INFO  org.org.example.Task24 � Started Task21 in 3.673 seconds (process running for 4.053)
 96420 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] � Initializing Spring DispatcherServlet 'dispatcherServlet'
 96420 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Initializing Servlet 'dispatcherServlet'
 96421 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet � Completed initialization in 1 ms

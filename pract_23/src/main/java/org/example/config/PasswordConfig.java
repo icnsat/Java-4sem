@@ -1,4 +1,4 @@
-package org.example;
+/*package org.example.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -11,3 +11,4 @@ public class PasswordConfig {
     public PasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();//по умолчанию 10 надежность пароля
     }}
+*/

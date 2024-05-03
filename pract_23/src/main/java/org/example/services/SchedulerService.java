@@ -7,11 +7,14 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 import org.springframework.util.ResourceUtils;
 
-import java.io.*;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 
 @Service
 public class SchedulerService implements ScheduleServiceMBean {
-    private final String backUpsDir = "pract_22/src/main/backups";
+    private final String backUpsDir = "pract_23/src/main/backups";
     private final DepartureServiceImpl departureService;
     private final PostOfficeServiceImpl postOfficeService;
 
@@ -21,7 +24,7 @@ public class SchedulerService implements ScheduleServiceMBean {
         this.postOfficeService = postOfficeService;
     }
 
-    @Scheduled(cron = "* */30 * * * *")
+    //@Scheduled(cron = "* * */1 * * *")
     public void backupFromDatabase() throws IOException {
         File file_dir = ResourceUtils.getFile(backUpsDir);
         try {

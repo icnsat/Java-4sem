@@ -7,6 +7,7 @@ import org.hibernate.SessionFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.orm.hibernate5.HibernateTransactionManager;
 import org.springframework.orm.hibernate5.LocalSessionFactoryBean;
 import org.springframework.transaction.PlatformTransactionManager;
@@ -22,6 +23,7 @@ public class Config {
 
 @Configuration
 @ComponentScan("com.example")
+@EnableJpaRepositories("org.example.repositories")
 public class HibernateConfig {
 
     @Bean

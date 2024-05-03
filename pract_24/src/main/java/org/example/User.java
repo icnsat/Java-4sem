@@ -2,11 +2,13 @@ package org.example;
 
 
 import jakarta.persistence.*;
+import lombok.Builder;
 
 import java.util.Set;
 
 @Entity
 @Table(name = "usr")
+//@Builder
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -24,6 +26,22 @@ public class User {
     @Column(name = "role")
     @Enumerated(EnumType.STRING)
     private Set<Role> roles;
+
+    public User(Long id, String username, String password, boolean active, Set<Role> roles) {
+        this.id = id;
+        this.username = username;
+        this.password = password;
+        this.active = active;
+        this.roles = roles;
+    }
+
+    public User(String username, String password, boolean active, Set<Role> roles) {
+        this.username = username;
+        this.password = password;
+        this.active = active;
+        this.roles = roles;
+    }
+
 
     public Long getId() {
         return id;
@@ -62,13 +80,6 @@ public class User {
     }
 
     public void setRoles(Set<Role> roles) {
-        this.roles = roles;
-    }
-
-    public User(String username, String password, boolean active, Set<Role> roles) {
-        this.username = username;
-        this.password = password;
-        this.active = active;
         this.roles = roles;
     }
 

@@ -1,21 +1,45 @@
 package org.example;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
+import lombok.AllArgsConstructor;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
 
-import java.util.Collections;
-import java.util.Map;
+import java.util.List;
 
 
-@Controller
+@RestController
 public class RegistrationController {
-    @Autowired
+
+    private final UserServiceImpl service;
+
+    public RegistrationController(UserServiceImpl service) {
+        this.service = service;
+    }
+
+    @RequestMapping(value = "/registration", method = RequestMethod.GET)
+    public ResponseEntity<List<User>> readAll() {
+        return new ResponseEntity<>(service.readAll(), HttpStatus.OK);
+    }
+
+    @RequestMapping(value = "/registration", method = RequestMethod.POST)
+    public ResponseEntity<User> create(@RequestBody UserDTO dto) {
+        return new ResponseEntity<>(service.addUser(dto), HttpStatus.OK);
+    }
+
+    @RequestMapping(value = "/registration", method = RequestMethod.PUT)
+    public ResponseEntity<User> update(@RequestBody User user) {
+        return new ResponseEntity<>(service.update(user), HttpStatus.OK);
+    }
+
+    @DeleteMapping("/registration/{id}")
+    public HttpStatus delete(@PathVariable Long id) {
+        service.delete(id);
+        return HttpStatus.OK;
+    }
+
+}
+   /* @Autowired
     public RegistrationController(UserRepository userRepo, BCryptPasswordEncoder passwordEncoder) {
         this.userRepo = userRepo;
         this.passwordEncoder = passwordEncoder;
@@ -60,19 +84,4 @@ public class RegistrationController {
         logger.info("Login cite visited");
         return "login";
     }
-
- /*   @PostMapping("/login")
-    public String testLogin(User user, Map<String, Object> model) {
-        logger.info("Post login-");
-        User userFromDb = userRepo.findAllByUsername(user.getUsername());
-        logger.info("existence testing{}", userFromDb);
-        if (userFromDb != null) {
-            logger.info("exists");
-            model.put("message", "User exists!");
-            return "redirect:/home";
-        }
-        logger.info("doesn't exist!");
-
-        return "redirect:/login";
-    }*/
-}
+}*/

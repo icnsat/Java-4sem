@@ -23,7 +23,10 @@ select * from postoffice
 
 insert into departure (type, date, office_id) values ('small', '05/05/05', 52)
 
-select * from departure]]></console>
+select * from departure
+
+select * from usr
+select * from usr_seq]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseEditorStateManager">
@@ -36,8 +39,10 @@ select * from departure]]></console>
     <connection id="64b940ac-9e8f-4fbf-a413-e6c8661f1c42" />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
-    <filter-actions connection-id="df4d5745-2cee-4536-b539-8eeeae417a7a" dataset="pract_15.postoffice" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="df4d5745-2cee-4536-b539-8eeeae417a7a" dataset="pract_15.departure" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="64b940ac-9e8f-4fbf-a413-e6c8661f1c42" dataset="pract_15.user_role" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="64b940ac-9e8f-4fbf-a413-e6c8661f1c42" dataset="pract_15.postoffice" active-filter-id="" />
+    <filter-actions connection-id="64b940ac-9e8f-4fbf-a413-e6c8661f1c42" dataset="pract_15.users" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="64b940ac-9e8f-4fbf-a413-e6c8661f1c42" dataset="pract_15.usr" active-filter-id="EMPTY_FILTER" />
   </component>
   <component name="DBNavigator.Project.ExecutionManager">
     <retain-sticky-names value="false" />
@@ -59,8 +64,8 @@ select * from departure]]></console>
           <config-type value="BASIC" />
           <database-version value="8.3" />
           <driver-source value="BUNDLED" />
-          <driver-library value="" />
-          <driver value="" />
+          <driver-library value="D:\MySQLConnector\mysql-connector-j-8.3.0" />
+          <driver value="com.mysql.cj.jdbc.NonRegisteringDriver" />
           <url-type value="DATABASE" />
           <host value="localhost" />
           <port value="3306" />
